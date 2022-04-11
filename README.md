@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tejas Parse</h1>
-<h3 align="center">A passionate app developer from India. Always learning.</h3>
+<h3 align="center">A passionate developer from India. Always learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasparse&label=Profile%20views&color=0e75b6&style=flat" alt="tejasparse" /> </p>
 
-- 🔭 I’m currently working on **30 Days of Flutter**
+- 🔭 I’m currently working on **PetSanctum Full Stack Project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **ExpressJS, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

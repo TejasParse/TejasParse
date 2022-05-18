@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PetSanctum Full Stack Project**
 
-- 🌱 I’m currently learning **ExpressJS, MongoDB**
+- 🌱 I’m currently learning **React, ExpressJS and MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

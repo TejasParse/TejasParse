@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasparse&label=Profile%20views&color=0e75b6&style=flat" alt="tejasparse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasparse" alt="tejasparse" /></a> </p>
-
 - 🔭 I’m currently working on [PetSanctum MERN Project](https://github.com/TejasParse/pet-sanctum-react)
 
 - 🌱 I’m currently learning **React**

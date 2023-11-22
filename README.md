@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tejasparse1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12kYQ25c1MzJ-dYAQPAqjnslWLh9v6aty/view?usp=sharing](https://drive.google.com/file/d/12kYQ25c1MzJ-dYAQPAqjnslWLh9v6aty/view?usp=sharing)
+- 📄 Know about my [Experiences](https://tejasparse.netlify.app/Experience)
 
 - ⚡ Fun fact **I am one of the top 50 Speed Cubers of India**
 

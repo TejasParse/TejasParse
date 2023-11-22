@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/tejasparse](https://linktr.ee/tejasparse)
+- 👨‍💻 Get to know me more by looking at my [Portfolio Here](https://tejasparse.netlify.app/)
 
 - 💬 Ask me about **React, Node, Machine Learning**
 

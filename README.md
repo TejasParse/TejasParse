@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasparse&label=Profile%20views&color=0e75b6&style=flat" alt="tejasparse" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, TypeScript**
+- 🌱 I’m currently learning **Large Language Models**
 
 - 🤝 I’m looking for help with **Deep Learning**
 

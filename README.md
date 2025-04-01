@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasparse" alt="tejasparse" /></a> </p>
 
-- 🔭 I’m currently working on **Action Classification in Videos**
+- 🔭 I’m currently working at **Psych for Life**
 
 - 🌱 I’m currently learning **Large Language Models (LLMs)**
 

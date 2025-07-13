@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Psych for Life**
 
-- 🌱 I’m currently learning **Large Language Models (LLMs)**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👯 I’m looking to collaborate on **Deep Learning**
 

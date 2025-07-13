@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tparse21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Rjz6jo4t9oVdTe3vUgbFNDEIjdik4UrL/view?usp=drive_link](https://drive.google.com/file/d/1Rjz6jo4t9oVdTe3vUgbFNDEIjdik4UrL/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1olEkFds8L0ZfUO1ooVJCog-g9lfAO5_4/view?usp=sharing)
 
 - ⚡ Fun fact **I can solve a pyraminx in 2 seconds!**
 

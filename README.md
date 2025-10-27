@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Ajay Parse</h1>
 <h3 align="center">I write production-ready code and own my repositories & mistakes. 2 YOE of professional experience in Software Development & Data Engineering</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasparse" alt="tejasparse" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasparse&label=Profile%20views&color=0e75b6&style=flat" alt="tejasparse" /> </p>
 
 - 🔭 I’m currently working on [Misere Tic Tac Toe](https://github.com/Vedang1308/Misere-Tic-Tac-Toe)
 
